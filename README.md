@@ -1,7 +1,5 @@
 <img width="1600" height="533" alt="imagem" src="https://github.com/user-attachments/assets/2b15987e-ce7a-41bf-aa76-6c87ed149a04" />
 
-![Banner](banner.png)
-
 ### Olá, eu sou a Erenice Cristina dos Santos! 👋
 
 📊 Professora de Biologia e futura Analista de Dados | 📍 Itajaí - SC
