@@ -9,12 +9,3 @@
 ![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-Em%20formação-8A2BE2?style=for-the-badge)
 
 
-#### 🚀 Projetos em destaque
-- 📍 [Análise Geoespacial de Inundações - Itajaí](https://github.com/erenicesantos640-lab/analise-geoespacial-inundacoes-itajai)
-
-
-#### 🛠️ Tecnologias
-`Python` `Pandas` `Jupyter Notebook` `Git` `GitHub`
-
----
-⭐️ De Itajaí para o mundo!
